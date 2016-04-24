@@ -3,6 +3,7 @@
 
 	<bannerLeft>
 		<name>Spring Batch: ${project.name}</name>
+		<name>Spring Batch: ${project.name}</name>
     	<href>index.html</href>
 	</bannerLeft>
 
